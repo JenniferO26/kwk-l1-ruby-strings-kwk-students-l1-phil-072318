@@ -9,7 +9,11 @@ Your friend Harry Potter was very impressed with the invitations that you create
 * date
 * time
 * host_name
-
+puts "guest_name"
+puts "party_name"
+puts "date"
+puts "time"
+puts "host_name"
 ...and then prints out custom invitations that look something like this:
 
 ```
